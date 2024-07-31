@@ -1,9 +1,6 @@
 # PRODIGY_WD_01
 A simple Responsive landing Page using HTML CSS and JAVASCRIPT
 
-Hello Everyone !! 👋 
-
-Successfully Completed PRODIGY_WD_01 task (Responsive Landing Page) . Internship at Prodigy InfoTech 🏛 
 
 Creating a simple responsive website using HTML, CSS, and JavaScript involves understanding how each of these technologies contributes to the overall design and functionality. Here’s a description and explanation of the tools used:
 
